@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic.png"
+  avatar           : "profile-icon.png"
   name             : "Jacob Nannie"
   pronouns         : # example: "she/her"  
   bio              : Life with God that forms people into a loving presence for others.
